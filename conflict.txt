@@ -1,4 +1,4 @@
-
- File conflict2 
+File conflict2 
 1) File conflict
 3) file conflict3 first branch
+3) conflict third line main branch
