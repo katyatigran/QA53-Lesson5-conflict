@@ -4,5 +4,8 @@ File conflict2
 3)file conflict3 first branch
 
 3) conflict third line main branch
+
 4) remote
+
+4) first remote
 
